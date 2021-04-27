@@ -1,0 +1,22 @@
+input 
+
+make each digit in the number squared 
+and return as a whole number 
+
+
+function 
+
+
+output
+
+3212 = 9414
+
+
+1. //function statement named squareDigits with parameter num
+
+
+2. //return Number function wraping the whole string
+//String function with num as parameter split method
+//split at each number map method to target each element
+//of the string and multiply it by itself then join method
+//to join every new element
